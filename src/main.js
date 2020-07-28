@@ -22,8 +22,6 @@ new Vue({
       car_status: this.car_status,
       map_status: this.map_status,
       current_page: this.current_page,
-  
-
     }
   },
   data() {
